@@ -6,3 +6,4 @@ this is new
 i added a new line
 my new commit for you
 
+new
